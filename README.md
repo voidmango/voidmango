@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @voidmango
 - 👀 I’m interested in Cybersecurity, Photography, CTFs, and Custom Keyboards
-- 🌱 I’m currently learning Systems Administration, C, Database and Database Modeling.
+
